@@ -1,0 +1,71 @@
+﻿Build started 2015-03-07 22:51:58.
+     1>Project "B:\Dropbox\_PHDSoftware\CPP_FuzzyConn2\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         B:\VSExpress2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+     1>b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(4448): warning C4267: 'initializing' : conversion from 'size_t' to 'const unsigned int', possible loss of data
+     1>b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(5080): warning C4244: 'initializing' : conversion from '__int64' to 'const unsigned int', possible loss of data
+     1>b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(8223): warning C4267: 'initializing' : conversion from 'size_t' to 'const unsigned int', possible loss of data
+     1>b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(8426): warning C4267: 'initializing' : conversion from 'size_t' to 'const unsigned int', possible loss of data
+     1>Source.cpp(33): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Source.cpp(183): warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+     1>Source.cpp(184): warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+     1>Source.cpp(187): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Source.cpp(188): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Source.cpp(243): warning C4244: 'argument' : conversion from 'float' to '__int64', possible loss of data
+     1>Source.cpp(279): warning C4244: 'argument' : conversion from 'float' to '__int64', possible loss of data
+     1>Source.cpp(317): warning C4244: 'argument' : conversion from 'float' to '__int64', possible loss of data
+     1>Source.cpp(352): warning C4244: 'argument' : conversion from 'float' to '__int64', possible loss of data
+     1>Source.cpp(367): warning C4244: '=' : conversion from 'unsigned __int64' to 'float', possible loss of data
+     1>Source.cpp(411): warning C4244: 'initializing' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>Source.cpp(415): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>Source.cpp(422): warning C4129: 'A' : unrecognized character escape sequence
+     1>Source.cpp(423): warning C4129: 'A' : unrecognized character escape sequence
+     1>b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(13326): warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(13322) : while compiling class template member function 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser(const cimg_library::CImg<float> &,const char *const ,const char *const )'
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(15240) : see reference to function template instantiation 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser(const cimg_library::CImg<float> &,const char *const ,const char *const )' being compiled
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(15240) : see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(15238) : while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(43000) : see reference to function template instantiation 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const' being compiled
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(42999) : see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+     1>b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(13331): warning C4244: '=' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(13475): warning C4244: 'argument' : conversion from '__int64' to 'const unsigned int', possible loss of data
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(13401) : while compiling class template member function 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *const ,char *const )'
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(13360) : see reference to function template instantiation 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *const ,char *const )' being compiled
+     1>b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(13687): warning C4244: 'argument' : conversion from '__int64' to 'const unsigned int', possible loss of data
+     1>b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(30222): warning C4267: 'initializing' : conversion from 'size_t' to 'const unsigned int', possible loss of data
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(30188) : see reference to function template instantiation 'cimg_library::CImg<unsigned char> &cimg_library::CImg<unsigned char>::_draw_text<tc1,tc2,float>(const int,const int,const char *const ,const tc1 *const ,const tc2 *const ,const float,const cimg_library::CImgList<float> &)' being compiled
+                 with
+                 [
+                     tc1=unsigned char
+         ,            tc2=unsigned char
+                 ]
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(30188) : see reference to function template instantiation 'cimg_library::CImg<unsigned char> &cimg_library::CImg<unsigned char>::_draw_text<tc1,tc2,float>(const int,const int,const char *const ,const tc1 *const ,const tc2 *const ,const float,const cimg_library::CImgList<float> &)' being compiled
+                 with
+                 [
+                     tc1=unsigned char
+         ,            tc2=unsigned char
+                 ]
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(42863) : see reference to function template instantiation 'cimg_library::CImg<unsigned char> &cimg_library::CImg<unsigned char>::draw_text<unsigned char,unsigned char>(const int,const int,const char *const ,const tc1 *const ,const tc2 *const ,const float,const unsigned int,...)' being compiled
+                 with
+                 [
+                     tc1=unsigned char
+         ,            tc2=unsigned char
+                 ]
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(42863) : see reference to function template instantiation 'cimg_library::CImg<unsigned char> &cimg_library::CImg<unsigned char>::draw_text<unsigned char,unsigned char>(const int,const int,const char *const ,const tc1 *const ,const tc2 *const ,const float,const unsigned int,...)' being compiled
+                 with
+                 [
+                     tc1=unsigned char
+         ,            tc2=unsigned char
+                 ]
+                 b:\dropbox\_phdsoftware\cpp_fuzzyconn2\consoleapplication2\consoleapplication2\CImg.h(42994) : see reference to function template instantiation 'int cimg_library::cimg::dialog<unsigned char>(const char *const ,const char *const ,const char *const ,const char *const ,const char *const ,const char *const ,const char *const ,const char *const ,const cimg_library::CImg<unsigned char> &,const bool)' being compiled
+       Link:
+         B:\VSExpress2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"B:\Dropbox\_PHDSoftware\CPP_FuzzyConn2\ConsoleApplication2\x64\Release\ConsoleApplication2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"B:\Dropbox\_PHDSoftware\CPP_FuzzyConn2\ConsoleApplication2\x64\Release\ConsoleApplication2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"B:\Dropbox\_PHDSoftware\CPP_FuzzyConn2\ConsoleApplication2\x64\Release\ConsoleApplication2.lib" /MACHINE:X64 x64\Release\Source.obj
+         Generating code
+         Finished generating code
+         ConsoleApplication2.vcxproj -> B:\Dropbox\_PHDSoftware\CPP_FuzzyConn2\ConsoleApplication2\x64\Release\ConsoleApplication2.exe
+     1>Done Building Project "B:\Dropbox\_PHDSoftware\CPP_FuzzyConn2\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.56
